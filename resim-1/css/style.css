@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: yellow; /* Arka fon sarı */
+    padding: 20px;
+}
+
+.container {
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #FFFCF8; /* Krem rengi arka fon */
+}
+
+.search {
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.submit {
+    background-color: black; /* Siyah gönder butonu arka fonu */
+    color: #FFFFFF; /* Beyaz yazı rengi */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
